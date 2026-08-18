@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ACC Construction">
+  <rect width="64" height="64" rx="6" fill="#121410"/>
+  <path fill="#008000" d="M32 8 L56 28 H48 V52 H16 V28 H8 Z"/>
+  <rect x="28" y="36" width="8" height="16" fill="#121410"/>
+</svg>
